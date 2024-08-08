@@ -114,3 +114,58 @@ body {
   color: #8dc8ff;
   background-color: #005db2;
 }
+
+
+
+
+@media screen and (max-width: 400px){
+
+.box {
+  width: 300px;
+  height: 500px;
+  
+}
+
+
+
+.cal-btn {
+  width: 50px;
+}
+
+.clear {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  
+}
+
+.end-btn {
+  width: 50px;
+ 
+}
+
+.cal-btn.zero {
+  width: 116px;
+  height: 50px;
+}
+
+#icon-btn {
+  width: 60px;
+  height: 60px;
+  margin: 5px 7px;
+ 
+}
+
+
+
+#equal-btn {
+  width: 50px;
+
+  margin: 5px 11px;
+  
+}
+
+
+
+}
